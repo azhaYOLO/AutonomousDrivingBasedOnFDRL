@@ -21,4 +21,4 @@ snakeoil_gym.py：TORCS客户端底层控制脚本
 
 
 ## 备注
-更详细内容请参考论文：……
+更详细内容请参考论文：[Autonomous Driving Decision Making and Controlling Based on Federated Deep Reinforcement Learning](https://github.com/azhaYOLO/AutonomousDrivingBasedOnFDRL/blob/master/Autonomous%20Driving%20Decision%20Making%20and%20Controlling%20Based%20on%20Federated%20Deep%20Reinforcement%20Learning.pdf)
